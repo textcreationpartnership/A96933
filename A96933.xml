@@ -1,0 +1,357 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>VVorks of darkness brought to light. Or A true representation to the whole kingdome of the dangerous designes driven on by sectaries in the army: as also laying down the unreasonableness of their demands, which if not granted, they refuse to disband. Together with VII. new queries propounded to the army.</title>
+            <author>Tell-Troth, Thomas.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 37 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96933</idno>
+            <idno type="STC">Wing W3585</idno>
+            <idno type="STC">Thomason E399_36</idno>
+            <idno type="STC">ESTC R201735</idno>
+            <idno type="EEBO-CITATION">99862234</idno>
+            <idno type="PROQUEST">99862234</idno>
+            <idno type="VID">160393</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96933)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160393)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 63:E399[36])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>VVorks of darkness brought to light. Or A true representation to the whole kingdome of the dangerous designes driven on by sectaries in the army: as also laying down the unreasonableness of their demands, which if not granted, they refuse to disband. Together with VII. new queries propounded to the army.</title>
+                  <author>Tell-Troth, Thomas.</author>
+               </titleStmt>
+               <extent>20 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>Printed in the year, 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: Tom Tell-troth.</note>
+                  <note>Annotation on Thomason copy: "July 23th".</note>
+                  <note>Pages 17-20 bound after Thomason Tract E.399[37].</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Christian sects --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160393:1" rendition="simple:additions"/>
+            <p>VVorks of Darkneſs Brought to LIGHT. OR A true <hi>Repreſentation</hi> to the whole King<g ref="char:EOLhyphen"/>dome of the Dangerous Deſignes driven on by Sectaries in the ARMY: As alſo laying down the unreaſonableneſs of their <hi>DEMANDS,</hi> Which if not granted, they refuſe to DISBAND.</p>
+            <p>Together with VII. new QVERIES propounded to the ARMY.</p>
+            <q>
+               <bibl>
+                  <hi>LUK. 3.14.</hi>
+               </bibl>
+               <p>And the Souldiers demanded of John, ſaying; And what ſhal we do? And he ſaid unto them, Do violence to no man, neither accuſe any man falſly, and be content with your wages.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dedication">
+            <pb facs="tcp:160393:2"/>
+            <pb n="3" facs="tcp:160393:2"/>
+            <head>THE <hi>EPISTLE DEDICATORY.</hi> TO The diſobedient Army under the Conduct of Sir THOMAS FAIRFAX.</head>
+            <opener>
+               <salute>Much to be lamented Gentlemen and Soldiers,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>T greives your freinds and glads your enemies, that you who have been famous for your victo<g ref="char:EOLhyphen"/>ries ſhould now become infamous for your diſ<g ref="char:EOLhyphen"/>obedience: It may be ſaid of your practiſes, as it was of the writings of Origen, <hi>ubi bene, ne<g ref="char:EOLhyphen"/>mo melius, ubi male nemo pejus:</hi> what things he did wel, none did better; wherein he did ill, none did worſe; the ſame may be ſaid of you, whiles you did wel in obeying the Parliament, encountring with your enemies, none did better; but when once you did ill, in diſobeying the Com<g ref="char:EOLhyphen"/>mands of this ſtate you ſerve; and in picking quarrels with your freinds when you had no enemies to fight withall, in this none did worſe. It hath made me wonder that you whoſe Tenets are, you muſt not fight for Religion, ſhould ſtretch your Conſciences ſo far on the tenter-hook of your own deſigns, as to fight againſt it: I know moſt of your Perſons, and have read all your Papers with a bleeding heart and weeping eye, my very ſoul mourning in ſecret for the proud and imperious language; vain and carnal confidence, Peremptory and high demands, weak and groundleſs jealouſies, ſinful and ungodly compliance (with all parties to carry on your own) which is ſcattered up and down throughout all your pa<g ref="char:EOLhyphen"/>pers; Lies have been your refuge, and under falſhood have you hid your ſelves. That your ſelves and the Kingdom might ſee I do
+<pb n="4" facs="tcp:160393:3"/>you no wrong, I ſhal produce your own party and Papers, to give palpable Demonſtration to all the world, that you have contrived and carried on your deſigns with falſhood and deceit. From your Party I might evince it thus; did not <hi>Cromwel</hi> (your great Ring<g ref="char:EOLhyphen"/>leader into <hi>Diſobedience</hi>) ſolemnly proteſt and promiſe upon his life and honor many times and oft in the Houſe of Commons,<note n="*" place="margin">
+                  <hi>Cromwels</hi> Promiſe falſi<g ref="char:EOLhyphen"/>fied.</note> 
+               <hi>that the Army ſhould diſband and lay down all their Arms at their door, when ever the Houſe Commanded them?</hi> now whether your papers agree with his promiſe, the world wil witneſs. It ſeems he can take that liberty of Conſcience with the Papiſt to pro<g ref="char:EOLhyphen"/>mote the Catholique cauſe, <hi>per fas et nafas,</hi> by right means or wrong, by truth or falſhood: This palpable breach of <hi>Cromwels</hi> ingagement makes all indifferent men beleive that this promiſe of obedience was only made; that your purpoſe of diſobedience might be the leſs ſuſpected, and the practiſe of it the more eaſily pro<g ref="char:EOLhyphen"/>moted. Is not this like the practiſe of <hi>Garnet</hi> and <hi>Jeſuite,</hi> who (a little before the powder-plot was to be acted) did lay his Com<g ref="char:EOLhyphen"/>mands on the Papiſts to obey their King, and keep themſelves qui<g ref="char:EOLhyphen"/>et? and all was that the plot might not be ſuſpected. If <hi>Crom<g ref="char:EOLhyphen"/>wel</hi> follow <hi>Garnets</hi> ſteps, I would have him take heed of <hi>Garnets</hi> end. 2. The falſhood of your Papers I could declare in many par<g ref="char:EOLhyphen"/>ticulars, which I wil ſcan and ſurvey in this following Treatiſe; I ſhal in my Epiſtile inſtance in one Palpable falſhood only. In your letter to the Lord Mayor, Aldermen, and Common Councel of the City of London:<note n="a" place="margin">Theſe in breif are our deſires and the things for which we ſtand, beyond which we ſhal not go. See the Letter from <hi>Sir Thomas Fairfax</hi> and the cheif Commanders in the Army to the <hi>Lord Major,</hi> Alder<g ref="char:EOLhyphen"/>men and Common-Council of the City of London Da<g ref="char:EOLhyphen"/>ted from <hi>Roy<g ref="char:EOLhyphen"/>ſton, June</hi> 10. 1647. P. 4 li. 14.</note> you ſignify what your deſires are, and the things for which you ſtand, beyond which you promiſe you ſhal not go. And in your<note n="b" place="margin"> See the De<g ref="char:EOLhyphen"/>claration from <hi>Sir Tho<g ref="char:EOLhyphen"/>mas Fairfax</hi> and the Army from St. <hi>Al<g ref="char:EOLhyphen"/>banes. June</hi> 1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 1647. P 12. l. 29.</note> Declaration 4. daies after this you have theſe words. <hi>There are beſides theſe many particular things which we could wiſh to be done, and ſome to be undone; but theſe propoſals afore-going preſent, being the principal things we bot<g ref="char:EOLhyphen"/>tome and inſiſt upon, we ſhal (as we have ſaid before)</hi> acquieſce <hi>for other particulars in the juſtice and wiſedom of the Parliament.</hi> In which words I cannot but give you to take notice both of Pride and falſhood. 1. Pride, in that in ſome particulars only you wil acquieſce in the wiſedom and juſtice of the parliament, in other things it ſeems you wil not; Touching thoſe propoſals in your Declaration you wil not acquieſce in the juſtice and wiſedom of the Houſe; in thoſe you ſeem your ſelves the moſt Competent judges on intollerable pride! 2. The falſhood of thoſe words appear in
+<pb n="5" facs="tcp:160393:3"/>this; although you bound up your ſelves by promiſe, that beyond your deſires expreſt in your letter, Dated 10. of <hi>June,</hi> and your Propoſals in your Declaration at St. <hi>Albanes, June</hi> 14. you would not go, but acquieſce in the juſtice and wiſedom of the Parliament for other particulars; yet have you ſince the time you made that promiſe imperiouſly demanded, and Peremptorily inſiſted upon about 20. Particular Propoſals more, in your Humble Remon<g ref="char:EOLhyphen"/>ſtrance, dated <hi>June</hi> 23. and in your manifeſto dated <hi>June</hi> 27. and in other Papers. Thus have you made lies your Refuge, and un<g ref="char:EOLhyphen"/>der falſhood have you hid your ſelves. Having thus dealt plainly with you, I ſhal now retire into a corner and weep for you, and that upon theſe 4. Conſiderations.</p>
+            <p n="1">1. Conſidering the Temptations you lie under at this day. Your ſelves confeſs it in the opinion and humble advice of the Councel of War at <hi>Bury,</hi> 29 of <hi>May</hi> 1647. pag. 7. line ult. Oh 'tis the houre of your Temptation; the Temptation that I conceive lies upon you, is this; that you have many of you been uſed ſo long to Command that you have forgotten to obey; that many of you from deep penury have aſpired to gainful offices, and from being cloathed in raggs, are now arrayed in Scarlet; this I fear wil be a prevailing Temptation upon you to make you unwilling to dis<g ref="char:EOLhyphen"/>band, knowing that then you muſt return to your obſcure dwel<g ref="char:EOLhyphen"/>lings and callings, to be Tinkers, Tapſters, Taylors, Tanker-bea<g ref="char:EOLhyphen"/>rers, Porters, Coblers, Bakers, and other ſuch mean trades, of which you could not ſubſiſt before theſe wars.</p>
+            <p n="2">2. Conſidering the Deſigns you drive at; among many this is the ſumm of your deſires, to new-mould the Houſe of Commons; which you call purging (but others think corrupting) the Houſe. Oh then M. <hi>Peters</hi> would be buſy abroad to get in ſome famous Common-wealths-men, ſuch as <hi>Hughſon</hi> the Shoo-maker, <hi>Hobſon</hi> the Taylor, <hi>Quarterman</hi> the Marſhal. Theſe in your account would be faithful Members in the Houſe of Commons.</p>
+            <p n="3">3. Conſidering the indirect means you uſe to drive on your de<g ref="char:EOLhyphen"/>ſigns, and that by fraud falſhood, ſtattery, and Compliance with all ſorts of men. Comply you do with the King to permit his ma<g ref="char:EOLhyphen"/>lignant Chaplins to come to him, and have common prayers read before him, contrary to the order of both Houſes; Comply baſely you do with malignants: a new ſmooth tearm for them you have
+<pb n="6" facs="tcp:160393:4"/>in your Remonſtrance found out; leaſt you ſhould diſpleaſe them too much in calling them Malignants: therefore you call them the <hi>Kings late Partakers,</hi>
+               <note place="margin">See humble Remonſtra. P. 12. l. 27.</note> and deſire for them more then ever they durſt deſire for themſelves. Doubtleſs theſe helpers ſhal be your ſhame and ruin, as the reeds of <hi>Aegypt,</hi> ſhal they be unto you to fayl and wound you.</p>
+            <p n="4">4. Conſidering the ill Conſequences that either have or may fall out. as 1. Have not you ſtrengthned the hands of the wicked, and greived the hearts of the godly wiſe? 2. Have not you ſtirred up a ſpirit of diſobedience in many people of the land againſt the Par<g ref="char:EOLhyphen"/>liament? 3. Have not you rendred the Parliament baſe and low before the people? 4. Have not you countenanced and encouraged all the <hi>deſperate Sectaries</hi> in the Kingdom? 5. Have not you ble<g ref="char:EOLhyphen"/>miſht and contemned a godly and <hi>Orthodox</hi> Miniſtry, and encou<g ref="char:EOLhyphen"/>raged illiterate mecanick unworthy fellows to preach, where, and when, and what they liſt? 6. Have not you permitted all ſcan<g ref="char:EOLhyphen"/>dalous Miniſters, that wil, to read the Common-prayer-book within your quarters? 7. Have not you hardned the Kings heart in his former wayes, in allowing him his ſeducing Chaplains who have cauſed him to erre; and to have as free a uſe, within your quarters, of the Common-prayer-book, as ever he had when he was at <hi>White-hall?</hi> 8. Have not you exceedingly retarded the releif of <hi>Ireland;</hi> had you not rather to pick quarrels with your freinds here, then to fight with your enemies there? 9. Hath not your approach to London raiſed the price of Proviſions, and interrupted the Trade of this City, above 200000.<abbr>l.</abbr> weekly? Theſe incon<g ref="char:EOLhyphen"/>veniences we have already felt, what yet we may further undergo the Lord knows. I have no more to ſay, but to Commend this following ſubject to your Patronage, wherein I ſhal endeavour to ſet forth to the world and your own Conſciences, the Dange<g ref="char:EOLhyphen"/>rouſneſs of your deſigns, the unreaſonableneſs of your demands, together with ſome new <hi>Queries</hi> to your Conſciences. in the mean time reſt,</p>
+            <closer>
+               <signed>
+                  <hi>Your humble Servant, if you wil not preſume to be the Kingdoms Maſters,</hi> Tom Tell-troth.</signed>
+            </closer>
+         </div>
+         <div type="text">
+            <pb n="7" facs="tcp:160393:4"/>
+            <head>VVorks of darkneſs brought to LIGHT; OR A true Repreſentation to the whole Kingdom of the dangerous Deſigns &amp;c. driven on by the ARMY.</head>
+            <opener>
+               <salute>Oye Inhabitants of ENGLAND;</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Ith what face can ye endure a ſmal Councel of war to controul and diſobey the great Councel of ſtate? Are ye weary of the Common Law, or rather wil<g ref="char:EOLhyphen"/>ling the Marſhal Law ſhould rule you? wil ye de<g ref="char:EOLhyphen"/>light rather to ſee Souldiers in Buff, then Nobles in their Parliament Robes? Had ye rather the Land ſhould run down with tears and blood, then flow with milk and honey? wil ye be beguiled with the flattering words and plauſible pretences of a Revolted Army? wil ye ſuffer the Army under pre<g ref="char:EOLhyphen"/>tence of juſtice to bring you under oppreſſion, and under the no<g ref="char:EOLhyphen"/>tion of Liberty to bring you into bondage, and under the name of Saints of light to act the part of the Angels of darkneſs? That you might not be deluded for time to come, I ſhal breifly diſpatch theſe 3. particulars. 1. Shew the Armies dangerous deſigns. 2. Unreaſonable demands, together with ſome new <hi>Queries</hi> to their Conſciences touching their refuſal to disband at the Command of the two Houſes of Parliament.</p>
+            <p>I begin with the firſt. <hi>viz.</hi> the dangerous deſigns driven on by the ſectaries in the Army; why they refuſe to disband. I ſhal re<g ref="char:EOLhyphen"/>duce to 7. heads, which I ſhal make appear by plain and Demon<g ref="char:EOLhyphen"/>ſtrative Reaſons.</p>
+            <p>
+               <pb n="8" facs="tcp:160393:5"/>
+The firſt grand deſign the Army drives at, is to new-mould the Honorable Houſe of Commons;<note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>Deſign.</hi>
+               </note> to increaſe the numbers of Inde<g ref="char:EOLhyphen"/>pendent Members, that ſo they might carry the Votes of the Houſe as it ſhal pleaſe themſelves, that if it were poſſible they might pro<g ref="char:EOLhyphen"/>mote their wicked deſigns in a Parliamentary way. This deſign is ſo clear, that he that runs may read it; ſince the writs were Iſſu<g ref="char:EOLhyphen"/>ed forth for new elections to fil up the Houſe; how Induſtriouſly have the Independent Party endeavoured to fil the Houſe with In<g ref="char:EOLhyphen"/>dependent Members; uſing M. <hi>Peters</hi> by perſwaſion in the Pul<g ref="char:EOLhyphen"/>pit, and the Army by terror, to deceive and affright the people, forcing many places in the Country to chuſe Souldiers, and others, men of no conſiderable intereſts in the Kingdom, to be Members of Parliament: yea their violence againſt the XI. Accuſed Members, manifeſts this to be the deſign, declaring to the Parliament in their Papers,<note n="a" place="margin">See the Ar<g ref="char:EOLhyphen"/>mies humble Remonſt. p. 14.</note> that they muſt take ſome extraordinary courſes, til the XI. Members be ſuſpended the Houſe, and ſome other of their de<g ref="char:EOLhyphen"/>mands ſatisfied: And not being content with this they vent their ſpleen alſo againſt other Members of the Houſe of Commons, bran<g ref="char:EOLhyphen"/>ding them with the ignominious tearm of<note n="b" place="margin">See the Armies hum<g ref="char:EOLhyphen"/>ble Remonſt. P. 10. P. 14.</note> a Party, men that drive their own intereſts, Accomplices to the Members accuſed, accuſing all them to be diſaffected to the publique good, who are not affe<g ref="char:EOLhyphen"/>cted to their own Party. Tis clear by this the new moulding the Parliament is the firſt and grand deſign.</p>
+            <lg>
+               <l>
+                  <hi>The grand deſign and main intent</hi>
+               </l>
+               <l>
+                  <hi>is to new mould the Parliament.</hi>
+               </l>
+               <l>
+                  <hi>The Army then and Country-clown</hi>
+               </l>
+               <l>
+                  <hi>wil turn the Kingdom upſide down.</hi>
+               </l>
+            </lg>
+            <p>To deſtroy the Houſe of Lords;<note place="margin">2. <hi>Deſign.</hi>
+               </note> The Petition of <hi>Lambes</hi> Con<g ref="char:EOLhyphen"/>gregation to the Houſe of Commons,<note n="c" place="margin">See that ſeditious Peti<g ref="char:EOLhyphen"/>tion from <hi>Lambes</hi> Con<g ref="char:EOLhyphen"/>gregation.</note> that none might have a ne<g ref="char:EOLhyphen"/>gative voyce; doth directly juſtle out the power of the Houſe of Peeres. The Sectaries are not aſhamed to ſay that the Lords of this Realm ought not to ſit in Parliament, unleſs they do come in by Election as Members of the Houſe of Commons do? this wil more evidently appear if ye read thoſe ſeditious Pamphlets againſt the Houſe of Lords, written by the Sectaries. It is ſaid in one Secta<g ref="char:EOLhyphen"/>rian Pamphlet,<note n="d" place="margin">See the juſt man in bonds. P. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> 
+               <hi>that the Lords are but painted puppies and Da<g ref="char:EOLhyphen"/>gons, that our ſuperſtition and ignorance, their own craft and impudence have erected; no natural Iſſues of Laws, but the
+<pb n="9" facs="tcp:160393:5"/>muſhromes of Prerogative, the wens of juſt government; putting the body of the people to pain, as wel as occaſioning Deformity, ſons of conqueſt they are and uſurpation, not of choyce and Ele<g ref="char:EOLhyphen"/>ction; intruded upon us by power, not conſtituted by conſent, not made by the people from whom all power, place, and office that is juſt in this Kingdom ought only to ariſe.</hi> And in another ſediti<g ref="char:EOLhyphen"/>ous Pamphlet 'tis ſaid thus;<note n="e" place="margin">See Pearl in a dunghil. p. 3.</note> 
+               <hi>why preſume ye thus O ye Lords; ſet forth your merit before the people. Remember your ſelves, or ſhal we remember ye? which of you before this Parliament min<g ref="char:EOLhyphen"/>ded any thing ſo much as your pleaſures, plaies, maſks; feaſtings, buntings, gameings, dancings &amp;c? For what other have you been but a meer clogg to the Houſe of Commons in all their pro<g ref="char:EOLhyphen"/>ceedings? how many neceſſary things have ye obſtructed? how many evil things have ye promoted?</hi> And in another Peſtilent Pam<g ref="char:EOLhyphen"/>phlet 'tis affirmed;<note n="f" place="margin">See Remon<g ref="char:EOLhyphen"/>ſtrance of many thou<g ref="char:EOLhyphen"/>ſands. p 7.</note> 
+               <hi>that the Lords muſt ſtand to be choſen for Knights and Burgeſſes by the people, as other, the freemen and gentry of this nation are.</hi> Yea there is another ſeditious Book in<g ref="char:EOLhyphen"/>tituled An Al-arm to the Houſe of Lords, which contains in every page of it, railing againſt the Peers of the Realm;<note n="g" place="margin">See the book intituled an Al-arm to the Houſe of Lords.</note> the ſeveral paſſages would be too tedious for you to read or me to write, let this ſuffice to let you ſee the endeavours of the Sectaries, to over<g ref="char:EOLhyphen"/>throw and alter the very foundamentals of the government of the Kingdom; now leaſt you ſhould imagine that this ſpirit of diſ-af<g ref="char:EOLhyphen"/>fection to the Houſe of Lords ſhould be confined, only within the breaſts of the unknown Authors of theſe ſeditious books; it is meet I ſhould let you know that this malignant humour runs as blood throughout the veines of all the Sectaries; when the Secta<g ref="char:EOLhyphen"/>ries, in and about London, Petition, 'tis only to their own Houſe of Commons, they never take notice of the Lords Houſe at all; witneſs that factious Petition from <hi>Lambes</hi> Congregation, and a<g ref="char:EOLhyphen"/>nother Petition from the Sectaries of London, delivered to the Houſe of Commons, by that Turn-coate <hi>Samuel Warner, Tich<g ref="char:EOLhyphen"/>bourn</hi> and others, in oppoſition to the Renouned Remonſtrance of the City, which was humbly preſented to both Houſes; but their ſeditious Petitions, but only to the Houſe of Commons. By this it appears that deſtroying the Lords Houſe, is the 2. Deſign driven on by the Sectaries.</p>
+            <lg>
+               <l>
+                  <hi>Ye nobles all be ware a fall</hi>
+               </l>
+               <l>
+                  <hi>The Browniſts do againſt you brawl.</hi>
+               </l>
+               <l>
+                  <pb n="10" facs="tcp:160393:6"/>
+                  <hi>They ſay you ſhal not ſit an houre</hi>
+               </l>
+               <l>
+                  <hi>If th' upper Houſe yeeld not to th' lower.</hi>
+               </l>
+            </lg>
+            <p>To cut off the King if he ſides not to the Independent party.<note place="margin">3. <hi>Deſign.</hi>
+               </note> 'Tis true, of late they ſeem to appear for him to gain Malignants on their ſide, but 'tis notoriouſly known how their Principles are di<g ref="char:EOLhyphen"/>rectly againſt Monarchy: What deſperate ſpeeches have ſome In<g ref="char:EOLhyphen"/>dependent Members uttered againſt the King! yea it wil never be forgotten how inraged the Independent Members of the Houſe and Sectaries of <hi>London</hi> were againſt the City Remonſtrance, chiefly becauſe there was this paſſage in it; <hi>for the preſervation of the Kings perſon according to the Covenant:</hi> Yea the Sectaries publiſh to the world in Print that the King for his miſ-government muſt loſe his life:<note n="h" place="margin">See the juſt mans Iuſtification, P. 1.</note> 'tis ſaid in one Pamphlet <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that <hi>You</hi> (meaning the Houſe of Commons or elſe the rude multitude) <hi>ſhould think of that great Murtherer of England</hi> (meaning the King) <hi>for by the impartial Law of God there is no exemption of Kings, Princes, Dukes, Earls, &amp;c. more then of Fiſhermen, Coblers, Tinkers or Chimney-ſweepers:</hi> and elſewhere 'tis ſaid<note n="i" place="margin">See Argu<g ref="char:EOLhyphen"/>ments prov<g ref="char:EOLhyphen"/>ing that we ought not to part with the Mili<g ref="char:EOLhyphen"/>tia Arg. 10.</note> that <hi>according to Pro<g ref="char:EOLhyphen"/>teſtations, Oathes, and Covenants He</hi> (meaning the King) <hi>ought to be brought to exemplary and condign puniſhment, he being the greateſt and moſt notorious Delinquent in the whole Kingdom, &amp;c.</hi> Yea they ſpeak their minds more fully in another Pamphlet<note n="k" place="margin">See the Remonſt. of many thou<g ref="char:EOLhyphen"/>ſands. p. 6.</note> 
+               <hi>We do expect, according to reaſon, that ye ſhould, in the firſt place, declare and ſet forth King CHARLS his wickedneſs openly before the world, and withal to ſhew the intolerable incoveniences of having a Kingly Government from the conſtant evil practices of thoſe of this Nation; and ſo to declare King CHARLS an enemy, and to publiſh your reſolution never to have any more.</hi> By all this it appears that the Sectaries intend, as the 32 <hi>Syrian</hi> Captains did (1 <hi>King.</hi> 22.31.) to fight neither with ſmal nor great but with the King of <hi>Iſrael.</hi> In laying down this Deſign I would have none of you conceive as if I were a Malignant Royaliſt (I hate Arbitrary power and Tyranny in Princes as much as any) I only mention this that Malignants might not be brought into fools paradiſe to joyn with the Army, conceiving them to be for the Kings honor and ſafety who are the greateſt enemies of both.</p>
+            <lg>
+               <l>
+                  <hi>Malignants all beleeve this thing</hi>
+               </l>
+               <l>
+                  <hi>Sectarians would deſtroy the King:</hi>
+               </l>
+               <l>
+                  <pb n="11" facs="tcp:160393:6"/>
+                  <hi>Yea they do wiſh there might be none</hi>
+               </l>
+               <l>
+                  <hi>For to ſucceed him on the throne.</hi>
+               </l>
+            </lg>
+            <p>To introduce an univerſal Liberty and Toleration for all ſorts of falſe and heretical opinions.<note place="margin">4. <hi>Deſign.</hi>
+               </note> All the ſectaries in the Kingdom labor with might and main to promote this; in one Pamphlet 'tis boldly aſſerted,<note n="l" place="margin">See <hi>Williams</hi> Bloody Tenet of Perſecution for the cauſe of Conſcience in the preface to the Parlia<g ref="char:EOLhyphen"/>ment <hi>p.</hi> 2.</note> 
+               <hi>that it is the wil and command of God, that ſince the coming of his ſon the Lord Jeſus, a permiſſion of the moſt Paga<g ref="char:EOLhyphen"/>niſh, Jewiſh, Turkiſh or Antichriſt an Conſciences and Worſhips be granted to all men in all Nations and Countries:</hi> And elſewhere 'tis ſaid,<note n="m" place="margin">See Com<g ref="char:EOLhyphen"/>paſſionate Sa<g ref="char:EOLhyphen"/>maritan. p. 5.</note> 
+               <hi>that Liberty of Conſcience is to be allowed to every man or ſort of men to worſhip God in that way or manner as ſhal appear to them moſt agreeable to Gods Word.</hi> Numerous Pamphlets there are abroad beſides broacht by the ſeducing Chaplains of the Army and their accomplices as Mr <hi>D<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lls</hi> Sermon before the Parliament; many ſmal and trivial Tracts of M. <hi>Saltmarſhes,</hi> M. <hi>John Goodwin</hi> in his blaſphemous book intituled <hi>Hagio m<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſtix</hi> &amp;c. and in his im<g ref="char:EOLhyphen"/>pudent <hi>Queries</hi> againſt an Ordinance of Parliament for the Sup<g ref="char:EOLhyphen"/>preſſion of Hereſies, with abundance of other Pamphlets which cry up this their <hi>Diana</hi> of Toleration; yea theſe Army-Chaplains have ſo corrupted their hearers and diſciples from the ſimplicity of the Goſpel that the whole Army now contends for Toleration by the ſword in the Field, which their Teachers could never make good by Argument eit er in Preſs or Pulpit: Yea the whole Army declare this to be the deſign. Ile give you the Armies words<note n="n" place="margin">See a Letter ſent from <hi>Sir Tho Fairfax</hi> and the cheif Commanders in the Army to the Lord Mayor, Alder<g ref="char:EOLhyphen"/>men &amp; Com<g ref="char:EOLhyphen"/>mon Councel of the City of London, Da<g ref="char:EOLhyphen"/>ted from Roy<g ref="char:EOLhyphen"/>ſton, Jun. 10.</note> 
+               <hi>We wiſh that every good Citizen and every man that walks peaceably in a blameleſs converſation, and is beneficial to the Common<g ref="char:EOLhyphen"/>wealth may have liberty and encouragement, it being according to the quſt policy of all States even to juſtice it ſelf.</hi> By this you may ſee the intendments of the Army if they prevail in this preſent un<g ref="char:EOLhyphen"/>dertaking.</p>
+            <lg>
+               <l>
+                  <hi>The great Diana cry'd up in the Nation</hi>
+               </l>
+               <l>
+                  <hi>Is a licentious lawleſs Toleration:</hi>
+               </l>
+               <l>
+                  <hi>All in the Land own not this curſed Action,</hi>
+               </l>
+               <l>
+                  <hi>Only a baſe or diſcontented Faction.</hi>
+               </l>
+            </lg>
+            <p>To pull down the godly and orthodox Miniſters of the Kingdom and to open a wide door (as in the days of <hi>Jeroboam</hi>) that the <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of the people may take upon them the Prieſts office;<note place="margin">5. <hi>Deſign.</hi>
+               </note> He
+<pb n="12" facs="tcp:160393:7"/>who in <hi>Jobs</hi> account, ſhould not be worthy to ſet with the doggs of his flock, is judged meet by Sectaries, to be Paſtor over the flock and ſheep of <hi>Chriſt.</hi> The prophaneſt ſort of men in the land, did never ſo groſly abuſe godly Miniſters, as all the Sectaries do at this day.<note n="o" place="margin">See M <hi>Dels</hi> preface to his Sermon before the Parliament and in his reply after.</note> They abuſe them in their names, calling them the Preiſts of <hi>Baal:</hi> in their office, making them to be but the Props and Toes of <hi>Antichriſt.</hi> Yea they account Miniſters Calling to be <hi>Antichri<g ref="char:EOLhyphen"/>ſtian,</hi> their maintenance to be <hi>Jewiſh,</hi> their preaching to be legal, and their perſons contemptible. And wil not they, think you, pul down them to ſet up phanatick and phantaſtick Teachers of their own? then poor <hi>Paul Hobſon</hi> the Taylor, <hi>Quarterman</hi> the Mar<g ref="char:EOLhyphen"/>ſhals man, &amp; <hi>Hughſon</hi> the Shoo-maker, with multitudes of mean and illiterate fellows, wil ſerve to be the <hi>Armies Evangeliſts.</hi>
+            </p>
+            <lg>
+               <l>
+                  <hi>Ye Preſbyterian ſtarrs, in Chriſts right hand</hi>
+               </l>
+               <l>
+                  <hi>Though Armies pul you down, yet ſhal you ſtand.</hi>
+               </l>
+               <l>
+                  <hi>Out live you ſhal theſe troubles, do what can</hi>
+               </l>
+               <l>Hobſon, <hi>or</hi> Hughſon, Del, <hi>or</hi> Quarterman.</l>
+            </lg>
+            <p>To keep off Independent Members (many wherof are guilty of capital crimes) from a due &amp; legal tryal.<note place="margin">6. <hi>Deſign.</hi>
+               </note> Tis only the ſound of the Trumpet, and noyſe of the Drum, that makes the cries of the people cannot be heard againſt the <hi>Tyranny, Bribery,</hi> and injuſtice of the Indepen<g ref="char:EOLhyphen"/>dent party. were it ſo that the <hi>Army</hi> were disbanded, that the free-born Subjects of <hi>England</hi> ſhould not be terrified by an <hi>Ar<g ref="char:EOLhyphen"/>my;</hi> there are thouſands in this Kingdom who would fully prove many of them to be brought into the Houſe upon undue and illegal Elections; that they have treaſured up vaſt ſumms of money, ob<g ref="char:EOLhyphen"/>ſtructed juſtice, retarded the Releif of <hi>Ireland,</hi> and acted many other intollerable injuries to the Common-wealth, which would make them an abhorring in the eyes of all the people; <hi>Fleet-wood, Harriſon,</hi> and <hi>Ireton,</hi> with many others know, were the <hi>Army</hi> disbanded, their elections would be queſtioned; Seeing they cannot continue themſelves Members by right, they wil do it by power; yea <hi>Leivtenant General Cromwel</hi> knows, there is ſome body in the world that can accuſe him of that, and prove it clearly to his face, which would make him bluſh, and be<note n="p" place="margin">
+                  <hi>Cromwels</hi> laſcivious carriage.</note> aſhamed to enter within the Houſe of Commons doors; very unbeſeeming a man of his condition and profeſſion. His own guiltineſs in this and
+<pb n="13" facs="tcp:160393:7"/>other things; as alſo the guiltineſs of many others of his faction, makes them unwilling to disband.</p>
+            <lg>
+               <l>
+                  <hi>Great are the ſumms I know not what</hi>
+               </l>
+               <l>
+                  <hi>Which Independent Members got.</hi>
+               </l>
+               <l>
+                  <hi>The ground of not diſbanding now is plain</hi>
+               </l>
+               <l>
+                  <hi>Leaſt queſtion'd they ſhould be for unjuſt gain.</hi>
+               </l>
+               <l>
+                  <hi>Leaſt of ſome Members there be an ejection</hi>
+               </l>
+               <l>
+                  <hi>For coming in by an undue Election.</hi>
+               </l>
+               <l>
+                  <hi>With Parliament and City they wil fight</hi>
+               </l>
+               <l>
+                  <hi>Leaſt</hi> Cromwels <hi>luſts and lies ſhould come to light.</hi>
+               </l>
+            </lg>
+            <p>If all theſe Deſigns take not; their laſt Deſign, is,<note place="margin">7. <hi>Deſign.</hi>
+               </note> to go over into <hi>Ireland</hi> under <hi>Cromwel,</hi> and the reſt of the Independent Officers; if they cannot be Maſters here, they would be Lords there; if can<g ref="char:EOLhyphen"/>not befool this Kingdom, they would inſlave that: <hi>Ireland</hi> is but a Reſerve, if cannot procure a Tolleration in <hi>England,</hi> they make no doubt to eſtabliſh it in <hi>Ireland;</hi> field <hi>Marſhal Skippon,</hi> and <hi>Major General Maſſey</hi> wil not ſerve their turn, therefore they re<g ref="char:EOLhyphen"/>fuſe to go under their Command; if their Commanders be not Sectaries, they rather fear a ſuppreſſion, then look for a Tolleration.</p>
+            <lg>
+               <l>
+                  <hi>Ere they tread</hi> Iriſh <hi>ground for</hi> Cromwel <hi>they wil cry</hi>
+               </l>
+               <l>Skippon <hi>content them cannot nor</hi> Maſſey.</l>
+               <l>
+                  <hi>The reaſon is, they are not of their Sect,</hi>
+               </l>
+               <l>
+                  <hi>Which makes the Army wholy them reject.</hi>
+               </l>
+               <l>
+                  <hi>The ſtate to their own tearms if cannot tye</hi>
+               </l>
+               <l>England <hi>muſt ſuffer ſtil and</hi> Ireland <hi>dye.</hi>
+               </l>
+            </lg>
+            <p>Thus I have endeavoured to lay open the dangerous deſigns dri<g ref="char:EOLhyphen"/>ven on in the <hi>Army;</hi> which I dare affirm with ſo much confi<g ref="char:EOLhyphen"/>dence, that I would have you beleeve nothing to be true, if you find not all to be true. If you ask me what are the likelieſt means to prevent theſe dangerous Deſigns? I anſwer briefly.</p>
+            <p n="1">1. All the Counties in the Kingdom ſhould Petition Humbly the Parliament, for the ſpeedy disbanding of the <hi>Army,</hi> they ha<g ref="char:EOLhyphen"/>ving as much from the ſtate as they can expect; the Declaration a<g ref="char:EOLhyphen"/>gainſt them revok't, the act of Indempnity inlarged, and moſt of their <hi>Arrears</hi> preſently to be payd, and all to be unqueſtionably ſecured; what can they as Souldiers deſire more?</p>
+            <p n="2">
+               <pb n="14" facs="tcp:160393:8"/>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. Thoſe 5 Counties, <hi>Eſſex, Norfolk, Suffolk, Buckingham,</hi> and <hi>Hertford,</hi> ſhould declare humbly to the Parliament how they are abuſed, in that a ſeditious inconſiderable party of ſuch County, ſhould preſume to preſent Petitions to <hi>Sir Thomas Fair<g ref="char:EOLhyphen"/>fax,</hi> under the name of the whole, which they wil not own; they likewiſe ſhould repreſent how ſurreptitiouſly the Petitions were gotten, by whom fomented, contrived and ſubſcribed, that they might come to condign puniſhment, for ſo high an affront againſt the Parliament. This would gain more Honor to thoſe Counties then they have loſt, in having ſuch a factious party in the midſt of them.</p>
+            <p n="3">
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> 3. Thoſe <hi>Sheirs</hi> and <hi>Burroughs</hi> for which the XI. Honorable (though accuſed) Members ſerve, ſhould Petition the Parliament, that the Knights and Gentlemen legally and fairly choſen by them, ſhould be Commanded to attend the ſervice of the Houſe, til the Charge can be proved againſt them.</p>
+            <p n="4">
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> 4. All the Kingdom ſhould Petition that none may be Members of Parliament, nor have any I ce in truſt of this Kingdom, who either renounce or refuſe to take the ſolemn league and Cove<g ref="char:EOLhyphen"/>nant.</p>
+            <p n="5">
+               <milestone type="tcpmilestone" unit="unspecified" n="5"/> 5. We ſhould Petition the Honorable Houſes, they would be pleaſed to hold on their Reſolutions in ſending overfeild-<hi>Mar<g ref="char:EOLhyphen"/>ſhal Skippon,</hi> and <hi>Major General Maſſey,</hi> theſe two valiant Com<g ref="char:EOLhyphen"/>manders to be in ſupream Command for the buſineſs of <hi>Ireland.</hi>
+            </p>
+            <p n="6">
+               <milestone type="tcpmilestone" unit="unspecified" n="6"/> 6. Petition the Parliament, that they would ſuppreſs ſeducers and falſe teachers, who creep into comers perverting many from the truth and ſimplicity of the Goſpel: as alſo that they would ſup<g ref="char:EOLhyphen"/>preſs ſeditious pamphlets printed by Sectaries and malignants a<g ref="char:EOLhyphen"/>gainſt the Parliament. Having finiſht the firſt head, laying down the deſigns the <hi>Army</hi> Drives at, together with the Remedies to prevent them; I come now to the 2. head, To lay down where<g ref="char:EOLhyphen"/>in the unreaſonableneſs (I had almoſt ſaid Treaſonableneſs) of the <hi>Armies</hi> demands doth conſiſt.</p>
+            <p n="1">1. Their firſt unreaſonable Demand is (which they call reaſo<g ref="char:EOLhyphen"/>nable)<note n="q" place="margin">See the <hi>Armies</hi> hum<g ref="char:EOLhyphen"/>ble <hi>Remonſt.</hi> p. 10.</note> that the Army may be payd up equal with thoſe that have deſerted it though invited by the Parliament to do it. Is this a rea<g ref="char:EOLhyphen"/>ſonable Demand, that they that have deſerted the Army out of conſcience and obedience ſhould have no more of their Arrears then
+<pb n="15" facs="tcp:160393:8"/>they that ſtand out ſtill in diſobedience againſt the Parliament?</p>
+            <p n="2">2. Their ſecond Demand is more unreaſonable<note n="r" place="margin">See the <hi>Ar<g ref="char:EOLhyphen"/>mies</hi> humble Remonſt. <hi>p.</hi> 
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>1. <hi>l.</hi> 1.2 We have ground to claim more then they or rather that they or ſome of them ſhould forfeit their Arrears.</note> that they that deſerted the Army (though out of obedience to the Parliament) ſhould forfeit their Arrears; or at leaſt that the Army ſhould have more of their Arrears payd them then the deſerters of it ſhal; were not this <hi>to juſtifie the wicked and condemn the righteous;</hi> to puniſh the one for obedience and reward the other for diſobedience, which would be a provocation in the eyes of God, neither conſiſting with equity and conſcience in the <hi>Army</hi> to demand, nor with the juſtice and honor of the Parliament to grant, to puniſh one for obedience and reward another for diſobedience.</p>
+            <p n="3">3. Their third unreaſonable Demand is to require more ſecurity for their arrears then any in the Kingdom ever yet deſired;<note n="ſ" place="margin">See the Ar<g ref="char:EOLhyphen"/>mies humble Repreſenta<g ref="char:EOLhyphen"/>tion, p. 15. l. 3.</note> the credit of the Exciſe and the profits ariſing out of Delinquents Eſtates, and Or<g ref="char:EOLhyphen"/>dinance of Parliament wil not content them; though millions of mo<g ref="char:EOLhyphen"/>ney have been lent upon this ſecurity: Were theſe terms offered to all other Officers and Souldiers in the Kingdom they would thankfully accept it as a due and ſafe recompence for their ſervice.</p>
+            <p n="4">4. Their fourth unreaſonable Demand is to limit the Parliament to a very day to grant their deſires, elſe to threaten them to their faces; which is ſuch an affront to a Parliament that never was of<g ref="char:EOLhyphen"/>fered in this world. In one of their Papers they preſcribe the very day when they muſt have a moneths pay;<note n="t" place="margin">See Humble Remonſtrance p. 14. l. 15.</note> in another paper they declare that it they receive not ſecurity and aſſurance to themſelves and the Kingdom of a ſafe and hopeful proceeding and that by Thurſday night they muſt be forced to take extraordinary courſes. 'Tis worthy your notice that this Demand of theirs was preſented to the Commiſſioners at S. <hi>Albans</hi> Iune <hi>the</hi> 23. being <hi>Wedneſday,</hi> and yet were ſo impudent to terrifie the <hi>Parliament,</hi> that if they did not gratifie their deſires the very next day following they muſt be forc'd to extraordinary courſes; they would allow but a day to the <hi>Parliament</hi> to conſider of their Demands; which is ſuch a high breach of the priviledg of <hi>Parliament</hi> that I cannot but ſtand a<g ref="char:EOLhyphen"/>mazed and wonder with what conſcience we can ſuffer, or with what face they can indeavor the ſubverting of the indubitable pri<g ref="char:EOLhyphen"/>viledges of <hi>Parliament.</hi>
+            </p>
+            <p n="5">5. Their fifth unreaſonable Demand is<note n="u" place="margin">See the Ar<g ref="char:EOLhyphen"/>mies humble, Remonſt. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 2. l. 6.</note> that there be no liſting of new forces in or about <hi>London,</hi> when themſelves do gather
+<pb n="16" facs="tcp:160393:9"/>together the moſt notorious Sectaries in the Kingdom to their Ar<g ref="char:EOLhyphen"/>my; yea draw their Train of Artillery from <hi>Oxford;</hi> take many loades of new arms out of <hi>Windſor Caſtle;</hi> ſeize upon powder coming from <hi>Northampton</hi> to <hi>London,</hi> fortifying ſome <hi>Garriſons,</hi> and do all things in preparation to a new war: yet the Parliament and City muſt ſit ſtil, look on, and all lie at their mercy; whether this be reaſonable, I leave to all indifferent men to judg.</p>
+            <p n="6">6. Their ſixth unreaſonable Demand is that<note n="w" place="margin">See humble Remonſt. p. 15. l. 12.</note> the <hi>Members ac<g ref="char:EOLhyphen"/>cuſed be forthwith ſuſpended or ſequeſtred the Houſe,</hi> and that be<g ref="char:EOLhyphen"/>fore any particular Charge or Proofs were brought in againſt them. Is it reaſonable that thoſe honorable perſons who are but Mem<g ref="char:EOLhyphen"/>bers accuſed ſhould be ſuſpended the Houſe, and yet <hi>Na<g ref="char:EOLhyphen"/>thaniel Fines</hi> a condemned Member ſhould ſit ſtill in the Houſe? Is he fit to ſit as judg to condemn others, that is a condem<g ref="char:EOLhyphen"/>ned man himſelf? Behold, O ye people, the juſtice of the Army! Is it reaſon that Colonel <hi>Long,</hi> who is only charged (but not proved) by the Army to be a Coward, ſhould be ſuſpended the Houſe, and yet poor <hi>Nat. Fines,</hi> who is a Coward upon Record, adjudged by a Councel of WAR to dye for Cowar<g ref="char:EOLhyphen"/>dize, muſt ſtill ſit in the Houſe?</p>
+            <p n="7">7. Their ſeventh unreaſonable Demand is in the behalf of the King and Malignants, for whom the <hi>ARMY</hi> is now become diſſembling Mediators: they deſire that<note n="x" place="margin">
+                  <hi>See</hi> humble Remonſt. p. 12. l. 26.</note> 
+               <hi>proviſion be made for the rights, quiet, and immunity of his MA<g ref="char:EOLhyphen"/>JESTIES Royal Family and his late partakers, &amp;c.</hi> How far they will extend this comprehenſive term, <hi>Immuni<g ref="char:EOLhyphen"/>ty for the KINGS Family and his late partakers,</hi> none but themſelves know: in part we may know what they mean: ſo much Immunity hath the <hi>KING</hi> and his late partakers already from the <hi>ARMY: viz.</hi> His Chaplains about him, and Cringings and Common prayers in uſe be<g ref="char:EOLhyphen"/>fore him: which how agreeable this is to the Directions of <hi>PARLIAMENT</hi> which have been given, or the Co<g ref="char:EOLhyphen"/>venant which hath been taken, I leave to wiſe men to con<g ref="char:EOLhyphen"/>ſider.</p>
+            <gap reason="missing" extent="1+ pages">
+               <desc>〈1… pages missing〉</desc>
+            </gap>
+         </div>
+      </body>
+   </text>
+</TEI>
